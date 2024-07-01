@@ -71,4 +71,4 @@ This plugin is licensed under the GPLv2 or later. For more details, see [GPLv2](
 
 ## Credits
 
-- Developed by [codestertech](http://codestertech.com).
+- Developed by [codestertech]
